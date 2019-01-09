@@ -1,4 +1,4 @@
-Bitalong OpenAPI Client
+#### Bitalong OpenAPI Client
 
 ## Summary
 
