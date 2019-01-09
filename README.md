@@ -1,5 +1,4 @@
 # Bitalong OpenAPI Client
-=====
 
 ## Summary
 
